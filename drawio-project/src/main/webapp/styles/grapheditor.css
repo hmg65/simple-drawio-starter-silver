@@ -1948,3 +1948,11 @@ div[title="UML 2.5 (uml25)"] {
 div[title="UML (uml)"] {
     display: none;
 }
+
+a[title="Google Drive"] {
+	display: none !important;
+}
+
+a[title="OneDrive"] {
+	display: none !important;
+}
