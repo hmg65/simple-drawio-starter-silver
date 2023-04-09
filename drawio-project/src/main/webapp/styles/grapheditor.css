@@ -1958,5 +1958,5 @@ a[title="OneDrive"] {
 }
 
 a[title="Device"] {
-	width: 278px;
+	min-width: 278px;
 }
