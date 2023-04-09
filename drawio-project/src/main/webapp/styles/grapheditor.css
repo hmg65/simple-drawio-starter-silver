@@ -1956,3 +1956,7 @@ a[title="Google Drive"] {
 a[title="OneDrive"] {
 	display: none !important;
 }
+
+a[title="Device"] {
+	width: 278px;
+}
